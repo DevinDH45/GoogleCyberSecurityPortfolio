@@ -1,4 +1,4 @@
-# Google CyberSecurity Certificate Portfolio
+# Google Cybersecurity Certificate Portfolio
 
 So far in this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers.
 
