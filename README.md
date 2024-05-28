@@ -14,7 +14,7 @@ Technical skills learned over the course:
 - Linux
 - Python
 - SQL
-- 
+  
 
 Each directory holds the files for each of the courses in the certificate and the order they were completed in is:
 
