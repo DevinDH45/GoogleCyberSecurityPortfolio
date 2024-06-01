@@ -14,6 +14,10 @@ Technical skills learned over the course:
 - Linux
 - Python
 - SQL
+- SIEM tools (Splunk and Chronicle)
+- Network protocol analyzers (Wireshark and tcpdump)
+- IDS/IPS tools
+- Firewalls
   
 
 Each directory holds the files for each of the courses in the certificate and the order they were completed in is:
@@ -23,6 +27,6 @@ Each directory holds the files for each of the courses in the certificate and th
 3. Connect and Protect: Networks and Network Security (Completed)
 4. Tools of the Trade: Linux and SQL (Completed)
 5. Assets, Threats, and Vulnerabilities (Completed)
-6. Sound the Alarm: Detection and Response (In Progress)
+6. Sound the Alarm: Detection and Response (Completed)
 7. Automate Cybersecurity Tasks with Python (In Progress)
 8. Put It to Work: Prepare for Cybersecurity Jobs (No files needed) (In Progress)
