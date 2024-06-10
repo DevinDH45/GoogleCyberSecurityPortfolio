@@ -4,7 +4,7 @@
 
 In this course, I've acquired foundational knowledge that equips me for entry-level cybersecurity roles and enhances my understanding of how security teams safeguard their organizations and customers.
 
-Links to my certification of completion - [Credly] (https://www.credly.com/badges/d3be0bfc-b44a-4a8f-a52d-5e8b75200b26/public_url) and [Coursera] (https://coursera.org/share/adb5aeae5e2fe743116ec20d6ebd8b73).
+Links to my certification of completion - [Credly](https://www.credly.com/badges/d3be0bfc-b44a-4a8f-a52d-5e8b75200b26/public_url) and [Coursera](https://coursera.org/share/adb5aeae5e2fe743116ec20d6ebd8b73).
 
 Topics covered over the course:
 
