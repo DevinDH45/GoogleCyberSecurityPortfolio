@@ -6,6 +6,8 @@ In this course, I've acquired foundational knowledge that equips me for entry-le
 
 Links to my certification of completion - [Credly](https://www.credly.com/badges/d3be0bfc-b44a-4a8f-a52d-5e8b75200b26/public_url) and [Coursera](https://coursera.org/share/adb5aeae5e2fe743116ec20d6ebd8b73).
 
+Currently adding projects and notes to repo.
+
 Topics covered over the course:
 
 - Risk management
